@@ -1,1 +1,0 @@
-# iamgeometric.github.io
