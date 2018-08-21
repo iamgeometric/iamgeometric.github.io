@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site-clone",
-    "currentPage": "page10.html",
+    "currentPage": "error.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5538,7 +5538,7 @@
         }
       ]
     },
-    "page10.html": {
+    "playlists.html": {
       "settings": {
         "title": "Playlists",
         "meta_descr": "",
