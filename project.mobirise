@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site-clone",
-    "currentPage": "playlists.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5538,7 +5538,7 @@
         }
       ]
     },
-    "playlists.html": {
+    "page10.html": {
       "settings": {
         "title": "Playlists",
         "meta_descr": "",
@@ -5949,11 +5949,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "r1p82Luzq7",
+          "_anchor": "menu1-26",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu1-26"
+          "_params": {}
         },
         {
           "_styles": {
@@ -6019,11 +6019,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "r1p82MT5l9",
+          "_anchor": "features3-28",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "features3-28"
+          "_params": {}
         },
         {
           "_styles": {
@@ -6041,11 +6041,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "r1p82OaaxH",
+          "_anchor": "content5-29",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content5-29"
+          "_params": {}
         },
         {
           "_styles": {
@@ -6126,11 +6126,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "r1p82OQXu8",
+          "_anchor": "footer7-2a",
           "_protectedParams": [],
           "_global": true,
           "_once": true,
-          "_params": {},
-          "_anchor": "footer7-2a"
+          "_params": {}
         }
       ]
     }
